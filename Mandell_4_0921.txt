@@ -1,0 +1,8 @@
+Have you receieved credit for all journals? I don't know, maybe, possibly?
+
+Why is it important that you use the naming convention specified when
+naming files? It allows for easier time for others and yourslef to find files
+by name, and it can make orginalization easier.
+
+What is the command to copy in Linux, to copy all of the directory at the
+current directory? The command to copy in Linux is cp (file name). 
