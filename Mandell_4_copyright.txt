@@ -1,0 +1,37 @@
+Copyright-The ownership of explicit use law. EX: Someone creates a script, then no one can create that same story and make money off of it.
+ 
+Copyleft- The use, modify, copy and share of things with the permission of the original owner. EX: John uses the code Cindy made when Cindy said he could.
+
+Fair use- The legal proportion of how much of something you can use without permission of the owner. EX: Being able to quote a piece of a book in something you write.
+
+Free Speech- First amendment to the constitution and ability to say (almost) anything you want to say, if in a non aggressive manner. EX: "I like pie."
+
+Free Software- Software that the user is allowed to create, copy, run etc., wihtout being the original owner/creator. EX: John changes Cindy's code that was Free Software.
+
+Freeware-Computer programs/software any can use without having to pay for it without making money for it. EX: John uses Cindy's software but doesn't change it.
+
+Public Domain- The place in which most to all of the copyright free material is. EX: A book written from a long time ago.
+
+File-sharing- Sharing computer programs or data in a network. EX: John sending Cindy a project he made.
+
+Piracy-  Reproduction of copyrighted material, mostly with video and movies. EX: John copies Night of The Living Dead, and then sells it.
+
+Plagiarism-Copy another person work, specifically if it is copyrighted. EX: John copies Cindies work exactly.
+ 
+Infringement- The act of breaking the law especially when talking about copyright protection. EX: John steals and pirates a copy of a movie.
+
+Proprietary-ownership of property. EX: John owns the program he made.
+
+Open source-Data or programs that are open to the public. EX: John makes a program that he lets everyone use and change.
+
+GNU GPL- Public Licensing from GNU EX: John creates and gets licensing for his program through GNU
+
+License- The permission granted that allows a business or person to do something. EX: John has a license to sell a product he made.
+
+MIT License- Free software license that came from MIT. EX: A person having a licesning for something that they did from MIT.
+
+Apache Lincense-Open source software with licensing from Apache software foundation. EX: John creates a program and then gets licensed by Apache.
+
+EULA-End user license agreement, a contract between companies and user. EX: John bought a product from Cindy, and they had to sign a contract.
+
+Creative Commons- An orginazation that has the ability to define copyrights, in places where copyright is not well defined. EX: John needs help with copyrighting his program so Creative Commons helps him.
