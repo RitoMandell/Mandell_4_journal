@@ -1,0 +1,4 @@
+Steve Ballmer claimed that GPL was virus because of how it ran its licensing and saying that any programs through it must be licensed with it (which does make sense)
+The the relationship/diffrence between open source and proprietary is that in many ways they are complete opposite. Open source is all about anyone can use anything and change anything, while proprietary is about "This is mine, buy it if you want it!".
+The main diffrence between GNU GPL's license and that of MIT is that MIT is very much about being open and sharing, while GNU GPL is about being able to make money, or create software for profit.
+
