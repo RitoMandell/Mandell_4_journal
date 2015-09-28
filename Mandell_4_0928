@@ -1,0 +1,3 @@
+To count in Java you create a foreloop, then create your variable then do "variable"++.
+To check for divisablity you use "#" % == 0.
+To check for a divisor you can use % then enter in the number you are checking for.
