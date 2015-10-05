@@ -1,0 +1,2 @@
+Code comments are comments on your code, that can be about a variety of things.
+They are good for learning something new about your/someone's code, or about what needs to be changed/fixed.
