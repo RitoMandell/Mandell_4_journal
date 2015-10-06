@@ -1,0 +1,5 @@
+Methods are mini programs taht run shorter things outside of your original forloop.
+Classes are classficiations for data types.
+An instance is, it is the specification of an object or data, adds a special identity to it.
+A class method is an overarching classifications for methods. 
+
