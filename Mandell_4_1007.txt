@@ -1,0 +1,4 @@
+A Java Class is a class in java...
+A Java class can be used for specifying things in JavaFX
+A method inside a class might be something along the lines of Application, or init.
+
