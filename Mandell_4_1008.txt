@@ -1,0 +1,5 @@
+My tentiative thoughts/plans for my art project is I will create a logo-esk thing that I really like, and will add some CS-esk things to the background.
+Methods I will use ones that include text based ones, a bit of mouse controled things, and then some polygons in there.
+To incorporate a forloop I will probably add it and put it as a background sort of.
+To incorporate if, else if, else I will put it into the code, to make it do things also in the background.
+The math I might use will be some simply math that involves plotting, and easy geometery concepts.
