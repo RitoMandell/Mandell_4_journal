@@ -1,0 +1,90 @@
+CODE:
+package javafxartwork;
+
+import javafx.application.Application;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.canvas.Canvas;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.ArcType;
+import javafx.stage.Stage;
+
+public class JavaFXArtWork extends Application {
+    private String cout;
+    
+    @Override
+    public void start(Stage primaryStage) {
+    primaryStage.setTitle("Drawing Operations Test");
+    Group root = new Group();
+    Canvas canvas = new Canvas (700, 700);
+    GraphicsContext gc = canvas.getGraphicsContext2D();
+    drawShapes(gc);
+    drawWords(gc);
+    drawMatthew(gc);
+    drawLine(gc);
+    drawTheSecondPart(gc);
+    drawTheFirstPart(gc);
+    drawTheThirdPart(gc);
+    drawSmoke1(gc);
+    drawSmoke2(gc);
+    drawSmoke3(gc);
+    root.getChildren().add(canvas);
+    primaryStage.setScene(new Scene(root));
+    primaryStage.show();
+    }
+    
+private void drawMatthew(GraphicsContext psychic) {
+    psychic.fillText("Matthew Mandell", 550, 650);
+    psychic.setStroke(Color.CORNFLOWERBLUE);
+    psychic.setStroke(Color.AZURE);
+    psychic.setLineWidth(10);
+}
+private void drawLine(GraphicsContext tas) {
+tas.setStroke(Color.WHITE);
+tas.setLineWidth(10);
+tas.strokeLine(100, 100, 100, 100);
+}
+private void drawWords(GraphicsContext wt) {
+wt.fillText("It's a house?",325, 450);
+wt.setFill(Color.BLACK);
+wt.setStroke(Color.BLACK);
+wt.setLineWidth(700);
+
+    }
+private void drawShapes(GraphicsContext gc) {
+       gc.setFill(Color.BLACK);
+}
+private void drawTheThirdPart (GraphicsContext ttp) {
+    ttp.fillRect(354, 120, 20, 55);
+    ttp.strokeRect(354, 120, 20, 55);
+    ttp.setFill(Color.BLACK);
+    ttp.setStroke(Color.BLACK);
+    }
+    private void drawTheSecondPart(GraphicsContext tsp) {
+      tsp.fillArc(300, 120, 160, 290, 0, 180, ArcType.OPEN);
+      tsp.strokeArc(300, 120, 160, 290, 0, 180, ArcType.OPEN);
+      tsp.setLineWidth(10);
+      tsp.setStroke(Color.CRIMSON);
+      tsp.setFill(Color.CRIMSON);
+    }
+  private void drawTheFirstPart (GraphicsContext tfp) {
+        tfp.fillRect(300, 250, 150, 150);
+        tfp.strokeRect(300, 250, 150, 150);
+    }
+   private void drawSmoke1 (GraphicsContext ds1) {
+       ds1.fillOval(350, 90, 15, 15);
+   }
+   private void drawSmoke2 (GraphicsContext ds2) {
+       ds2.fillOval(360, 60, 25, 25);
+}
+   private void drawSmoke3 (GraphicsContext ds3) {
+       ds3.fillOval(340, 75, 7, 7);
+}
+}
+
+//This is my first art piece with JavaFX!
+//W.I.P. 
+
+Paragraph:
+So far I have used methods to create an image of a house. I currently have used rectangles, text, and circles to create everything in my image so far. I would like to add more things with user interaction, which I will use to create some things in the background. Also I will be add a forloop, which will also be used to add to the background. Overall I think what I am proud of what I have made, but I need to add more of the things that are a part of the criteria.
