@@ -1,0 +1,5 @@
+1. I am close to being done with all my methods, I am not fully done because I am trying to work on getting in the forloop and adding values to things.
+2. First 2 days, I, sort of, wasted because the thing I had orginally planned to do, I tried to do but couldn't make it work. After that I spent the other days working on something new and trying to figure out what I wanted to do.
+3. Yes, I did see that the method art code was in the journals, because I looked at it myself.
+4. Yes, I did examine the example code in github to figure out how to make certain things happen in JavaFX.
+5. Okay.
