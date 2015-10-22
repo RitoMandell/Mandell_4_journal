@@ -1,0 +1,2 @@
+The purpose of the code art is to create a picture while, also showing the code I used to create the art piece.
+Trying to create art teaches coding because it allows for "exploration" of code, which is something we should be doing in this class. Also it allows to show off what we learned and entices us to try and learn new things.
