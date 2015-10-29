@@ -1,0 +1,1 @@
+Yes, my guessing game is a game but it just needs a bit more work. Currently I need to give the user more chances to get the magic number.
