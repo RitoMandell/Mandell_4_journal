@@ -1,0 +1,4 @@
+A method is like a miny program within a program, it does simple tasks that can vary a lot.
+In my guessing game I used the method counter and playagain to keep the game going, but also to limit the user's chances to get the right answer.
+A while loop is simply put a thing that will keep on happening as long as it stays true.
+I used a while loop to just have the game run, I used a boolean to find if something is true or false and I used a counter, to count down the lives the player had left.
