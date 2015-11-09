@@ -1,0 +1,3 @@
+I am almost ready to begin coding my game, I only have a little left to put into the dot.
+Because my dot became a bit longer than I had originally thought, and I decided to add more to make it better.
+My biggest challenge for coding my game will probably be the actual coding, and making sure I do the curly braces, and semi-colons right.
