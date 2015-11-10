@@ -1,0 +1,1 @@
+To track what challenges the player has solved you would need both a boolean and have that boolean be static so that it is passed throught the entire program, while also knowing if it is true or false.
