@@ -1,0 +1,3 @@
+THe challenges the player must solve is who to deal with the situations they are put into, and later get out of an evil lair.
+This, luckily, if very easy to solve as, as long as they have made the "correct" choices the game will continue, and if not it's game over (or another ending).
+Userinput, (no classes to name as there are none).
