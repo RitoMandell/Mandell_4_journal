@@ -1,0 +1,3 @@
+I will use a while loop to just have the game run and continue to run until they lose.
+I will use methods to run the majority of my game most likely and have specifics in the game.
+
