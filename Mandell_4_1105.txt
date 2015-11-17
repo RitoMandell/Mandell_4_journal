@@ -1,0 +1,4 @@
+A string is a type of data, that is made of characters ex: matthew
+Strings are good for labeling things and also finding if something contains another thing.
+An example of a string method is something along the lines of: .contains or locate
+We identify string methods through the fact that: first it will use string values, and second it will probably be basing it off of a word or phrase.
