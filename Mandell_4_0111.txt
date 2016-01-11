@@ -1,0 +1,2 @@
+I will create a game in which the player tries to find treasure, but will be faced with various enemies.]
+I will have some problems with the map, as for some reason it is saying it is too large. Besides that I will probably only have small fixable issues.
