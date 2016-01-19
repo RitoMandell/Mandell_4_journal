@@ -1,0 +1,5 @@
+I created a game called Treasure, in which the player tries to find treasure while fighting enemies.
+Some challenges I solved included adding a new objective into the game, implementing a new win condition (while similar to the original), and then a few problems with implemnting and changing the game.
+I did finish the map before the winter break, however I did work on it a bit throughout the week to make it look better, I did that because I wanted the map to look as good as I could make it.'
+I was not able to meet the timeline because of errors that I faced along the way which I was unable to fix on my own. If I worked on it more over the weekend there is a better chance that I could have finished to meet the timeline.
+
