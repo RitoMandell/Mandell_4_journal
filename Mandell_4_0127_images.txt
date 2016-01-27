@@ -1,0 +1,2 @@
+To add an image into your code you g.draw the image, and then insert the location of the image, it is easier to have it as res/(image name).
+The image in draw in the game contain with the code g.drawString("Text"), and then g.setColor, and to insert the map, it is grassMap = new TiledMap("res/(map name)");.
