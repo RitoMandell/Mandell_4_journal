@@ -1,0 +1,1 @@
+This is a method that creates the general game state, and game container that helps begin to create and draw the game's graphics. This is a method.
