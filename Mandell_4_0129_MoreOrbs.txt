@@ -1,0 +1,3 @@
+A class construstor is basically a template to create other objects with ease.
+The things that should be included in a class constructor for orbs should be the picture that will show what it is, the size of the object, and also details that will remain the same no matter which orb it will be.
+Certain methods that should be used and put in to create the orbs are isvisble, position, and image.
