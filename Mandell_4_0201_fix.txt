@@ -1,0 +1,1 @@
+To clean up my code more I will get rid of unneccessary imports and spaces that don't need to be there. To make the code more of my own I will try to add more parts that I like and that I prefer to use.
