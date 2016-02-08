@@ -1,0 +1,1 @@
+To check the damage on enemies from weapons you need to first make it where it can intersect other objects, and then you would add a counter to those objects and then make the intersection make the counter go down by some number
