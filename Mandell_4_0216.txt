@@ -1,0 +1,2 @@
+We used an aray in our game to help make the map, specifically which blocks were "blocked".
+Another use for array in a different program would be to make an inventory and grab items from it.
