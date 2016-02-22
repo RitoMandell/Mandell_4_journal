@@ -1,0 +1,6 @@
+This code sets up the update for the character's movement.
+It wouldn't help as IDEs can do this for you and you don't LEARN anything, but instead just a single thing. This helps us to learn how to put things together and to "tinker".
+An array is a data set put together that you can grab variables from.
+To make an array you use the code: private String[] greatarraryname = new String[];
+An ArrayList is a different form of an ArrayList that is different because of the size.
+ 
