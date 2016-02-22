@@ -1,0 +1,11 @@
+You use arrays to create the map and blocked.
+private int[] coolarray = new int{1};
+private String[] superarrary = new String{"hi"};
+private boolean greatarray = new boolean{true}; 
+private double[] anotherarray = new double{.01};
+private int[] coolarray = new int{42};
+private String[] andanother array = new String{"bob"}
+Creates a new int array with a value of 3
+This creates a new string array with rice pudding, pan dulce, and bunuelos as the values.
+One is a int array that can only hold whole numbers while the other can hold, essentially, any value.
+You would go into the code and take out bunuelos and then add apple pie to where bunuelos was.
