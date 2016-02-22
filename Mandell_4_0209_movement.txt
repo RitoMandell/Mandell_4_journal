@@ -1,0 +1,1 @@
+We can make the orb move the direction the player just moved, and thus it will move the direction you are facing.
