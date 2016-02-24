@@ -1,0 +1,4 @@
+A class named "Rat"
+"Rat ratz = new Rat", and "public class Rat{"
+The decleration and initialization should be placed in the beginning of the code and class where you want to start adding detials or just start the object.
+private String ratArray = new String{"rat1, rat2, rat3, rat4, rat5"}
