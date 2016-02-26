@@ -1,0 +1,3 @@
+This code makes a map char array.
+You would go into the System.out.println and change the "." to "X".
+You make each map a state, and then you create a main calling each map as a different state so that once you complete one you just move to the next.
