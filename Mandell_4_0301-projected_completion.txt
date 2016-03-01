@@ -1,0 +1,2 @@
+I don't have another level yet, however I am working on getting it to be playable in some way.
+My revisions may not be completed by Friday, however I will try and work on it over the weekend to make my game in a playable state that has the needed revisions, this is because I have troubles making the game playable due to some problem in render I am unable to resolve easily.
