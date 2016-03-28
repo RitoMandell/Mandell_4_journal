@@ -1,0 +1,6 @@
+Some similarities I have noticed with the arduino's is that you write it in a similar way in which you would with Java, using various data types including int; however, a difference I have noticed is the lack of main in the code which is a what is needed in Java. One final similarity I noticed is how the code uses if statments to run effectivly and do what the program is asking of it to operate.
+So far I haven't done or had to do anything new or make an adaption besides that of not writing main at the beginning of the code.
+For a circuit to run you need a power source (voltage), usually you need some sort of resistor, and then you also need it to be connect fully so that electricity may fully run through it to create a complete circuit.
+The methods and classes have already been defined some where else or it does not need to be defined to run properly and be complied.
+So far my partner and I have completed a few projects ranging from making a light blink on it's own, to pushing a button, to multi-color LED.
+So far I have not thought of what the projects may be; however, I would like to do something with the muli-color LED, and probably a button because everyone deep down just wants to push a button.
