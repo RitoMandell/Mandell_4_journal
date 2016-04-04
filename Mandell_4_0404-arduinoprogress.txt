@@ -1,0 +1,6 @@
+So far we have coded what we want to use from the tetris theme song, and we have now started to work on the frogger theme music.
+We have used the template for music, changed letters, and changed frequincies, and then continued to use this to put together the first few bars of the tetris theme music.
+Continue to code various theme musics, while also figuring out how to make it where you can call upon each one indivually. Also I will want to assess and deal with a problem in which I can only use 18 beats for the buzzer to not emit a high pitched screech permantly.
+I will be able to present a couple of games' theme music (most likly 3-4 if all goes well).
+I am changing variables while also adding some of my own. We are using the base template however for the sake of efficiency and to be able to just start.
+So far none; however, eventually we will begin to create a function calling upon sound files from a button press.
