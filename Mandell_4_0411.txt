@@ -1,0 +1,9 @@
+
+Assembly is a coding language specific to that of of machinary and other more 
+"physical" objects, we use this coding type for arduinos and things similar to it. It is a C based language, with the main difference in its uses.
+Assembly is good for, as previously mentioned, coding processors and other "physical" objects that don't just exist within the computer but instead make up the computer or other devices in which it performs physical actions.
+Assembly and Java are both C based languages; however, the main differences between the two is again the uses of the language. While Java does act as a good coding language for making games and things along that line it doesn't have the capabilities as assembly with processors. Assembly is for specific machines while Java is a broad language you can use for many different projects.
+The difference between high and low level programming languages is essentially how much it can do and how flexibly it can be. Low level are meant for a few specific cases, while high level languages are meant to be a "one size fit all" sort of language that can be used for a variety of projects.
+Java is a high level programming language for its ability to be very flexible and not rely on the operators architecture for be able to process the information and code. 
+Assembly, while still a variant of C languages, is a low level programming language due to its inflexibily and reliance on the operator itself instead of a flexibility or change that it can make to allow to be processed by itself. 
+	`	  
