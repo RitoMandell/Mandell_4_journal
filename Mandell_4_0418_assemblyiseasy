@@ -1,0 +1,25 @@
+The computational reason I typed elf64 was to help debug the code, while also telling it the code was 64 bytes instead of 32.
+I used ld to combine files and objects from an archive to move data and bring together symbol references, and also the last step to compile a program.
+I didn't have to use chmod because it was already accesible and excutable through the fact that it is essembly and works with the architecture of the computer.
+Changed code:                                            
+global _start
+       section .text
+_start
+        ;write(1, message, 13)                  ;system call 1 is write
+        mov       rax, 1                        ;file handle 1 is stdout
+        mov       rdi, 1                        ;address of string to output
+        mov       rsi, message                  ;number of bytes
+        mov       rdx, 15                       ;invoke operating system to do the write
+        syscall
+
+        ; exit(0)
+        mov     eax, 60                         ;system call 60 is exit
+        xor     rdi, rdi                        ;exist code 0
+        syscall                                 ;invoke operating system to exit
+message:
+        db "Matthew", 10                          ;note the newline at the end
+I had to vary the amount of bytes to make it be able to output my name correctly.
+Assembly, while quick and easy for the computer, is difficult to write for the coder because it requires many things to output the code as well as you need to know how many bytes the message or whatever you are doing will take up.
+In regards to low level, it is how difficult it is for the computer to run and thus if a program is low level it is easy for the computer to run and uses the computer's architecture it run instead of being broad and flexible it works directly with the computer.
+
+
