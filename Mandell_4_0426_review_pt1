@@ -1,0 +1,35 @@
+public i = new int;
+pblic  l = new int
+public usernumber;
+
+public static void main(String[] args) {
+Scanner usernumber = new Scanner(System,in);
+usernumber = i;
+l = i * i * i;
+System.out.println(l);
+}
+-----------------------------------------------------
+
+int i = number;
+void setup() {
+i * i * i;
+}
+------------------------------------------------------
+
+public class Student {
+
+public int grade;
+public string hairColor;
+public string eyeColor;
+public string clothes;
+public boolean awake;
+}
+public Student matthew {
+grade = 83;
+hairColor = brown;
+eyeColor = brown;
+clothes = tshirt;
+awake = true;
+}
+-----------------------------------------------------
+To continue in Arduino you would want to create a program function to create the object and class that would be exactly like that of the Java class.
