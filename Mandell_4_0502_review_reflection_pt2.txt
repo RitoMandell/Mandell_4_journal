@@ -1,0 +1,21 @@
+What is an array?
+An array is a simple set of information in basic data types.
+How does one make a simple array of Strings?
+public String namesarray = new array;
+What is the syntax for a 2-D array?
+public coolarray[x][y] = new array
+What is the syntax for a 3-D array?
+public awesomearray [x][y][z] = new array
+How does one change the value for the third value in a one dimensional array? [Give specific code]
+You can either, go into the code, and just remove the third value and change it (seriosuly this just makes sense and can be so much easier than doing other things), or you could enter commands to grab that value, remove it, then have to enter another command to input another variable in its place.
+What is the syntax for a while loop?
+while(true) {
+}
+Why use while loops in your game?
+To continue a game until a condition that either makes you win or lose is met making the game run properly and continuosly.
+Your game should be in a method outside of main --- How will you call your game in main?
+You can call the methods using classes, ensuring that the values are public making it easier to grab the classes and methods making your game come together.
+Easier to ensure no bugs when the player is inputting commands, it makes everything uncapidalized and thus you can make sure the player is inputting correct input values the code can recognize.
+Why was it recommended that you use .toLowerCase() with your Scanner input?
+You should use different methods when moving the protagonist and to check for intersections. How? Why?
+What values will you pass across methods? how? why?
