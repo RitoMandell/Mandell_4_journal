@@ -1,0 +1,8 @@
+The X cordinate is 67, and the Y cordinate is 43
+if (i=0){ System.out.print("8888"); -This enters the number 8888, if i = 0
+System.out.print(map[i][j]); -This prints out the map into the output
+System.out.println("."); -This puts in a "." whenever the value isn't x and this is different than #e because #c creates a new line of code hense println instead of print in #e
+System.out.println(map[i][j]); -this prints out the map and finishes the code together
+To use a boolean with a while loop you can have the while loop's condition be that of a boolean type (true and false)
+Static is used to make a variable the same in all times that it is used in code, good for walls and things similar to it
+I can use a trap as an object in this game so that I can have multiple traps in my game instead of that of a single trap in the game
