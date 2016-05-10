@@ -1,0 +1,13 @@
+hero Matthew = new hero();
+public class hero{
+int health = 100;
+int score = 0;
+boolean sword = true;
+int staminaPercentage = 100;
+int level = 1;
+int x = 5;
+int y = 5;
+int z = 2;
+char symbol = 'H';
+}
+You shouldn't initialize a hero in the hero class because of code grammar, and it is easier and less buggy if you initialize it outside of the class and most likely in a main
