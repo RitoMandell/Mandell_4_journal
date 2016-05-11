@@ -1,0 +1,1 @@
+This creates a basic forloop that creates the board length that is then probably in turn supposed to make the map, this makes it where i is probably rows, and j is columns
