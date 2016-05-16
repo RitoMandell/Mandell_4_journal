@@ -1,0 +1,4 @@
+Casting is the changing of data types among varaibles, usually among that of similar data types. e.g. char to string
+Up-casting is when you bump the variable up from it's previous, e.g. short into a long.
+Down-casting is when you bump the variable down from its previous data type. e.g. long into a short.
+The possible values for a byte is anywhere from 0-255 in one byte, because of the unicode valyes java uses, as well as it counts 0 as one of the values and thus it isn't 256 like it otherwise could be if I didn't count and have 0 usuable.
